@@ -12,9 +12,4 @@ This project implements a Question Answering (QA) chatbot using Streamlit and Hu
 
 ## Getting Started
 
-### Prerequisites
-
-Make sure you have Python 3.7 or later installed. You also need to have the following software installed:
-
-- [Microsoft Visual C++ Redistributable](https://aka.ms/vs/16/release/vc_redist.x64.exe) (for Windows users)
 
